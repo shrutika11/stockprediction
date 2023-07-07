@@ -1,5 +1,7 @@
 # stockprediction
 tesla stock price prediction on data from 2010 to 2020 using lstm
+
+
 data has been taken from kaggle (https://www.kaggle.com/datasets/timoboz/tesla-stock-data-from-2010-to-2020?datasetId=500872)
 
 Here,I used a Long Short Term Memory Network (LSTM) for building the model to predict the stock prices of Google.
